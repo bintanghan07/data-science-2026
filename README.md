@@ -12,7 +12,7 @@ Program Studi : S1 PJJ Informatika
   Saya memiliki ketertarikan dalam bidang analisis data. Tujuan saya mempelajari Data Science adalah untuk memahami bagaimana data dikumpulkan, dibersihkan, dianalisis, divisualisasikan, hingga digunakan untuk membangun model Machine Learning yang dapat membantu pengambilan keputusan berbasis data.
   Repository ini berisi kumpulan praktikum dan tugas yang saya kerjakan selama mengikuti mata kuliah Pengantar Data Science. Di dalam repository ini terdapat dokumentasi praktikum mulai dari Pertemuan 1 sampai Pertemuan 7. Setiap pertemuan berisi notebook yang menunjukkan proses pembelajaran mulai dari dasar Python, manipulasi data menggunakan Pandas dan NumPy, eksplorasi data, visualisasi data, data preprocessing, hingga pembangunan model Machine Learning sederhana menggunakan Linear Regression.
 
-**###Daftar Pertemuan:**
+**Daftar Pertemuan:**
 
 Pertemuan 1 = Dasar Python
 Pada pertemuan pertama saya mempelajari dasar-dasar pada Python, termasuk penggunaan tipe data string, integer, float, dan boolean. Saya juga belajar menggunakan list, perulangan (loop), serta membuat function untuk menghasilkan teks perkenalan secara otomatis. Link Notebook: [Notebook Pertemuan 1](https://colab.research.google.com/drive/1Y-v_9r6gST6iXoRKwV75iOMh17sY9cbM?usp=sharing)
@@ -35,10 +35,11 @@ Saya mempelajari tahapan preprocessing sebelum membangun model Machine Learning.
 Pertemuan 7 = Machine Learning dengan Linear Regression
 Saya membangun model Linear Regression untuk memprediksi gaji berdasarkan pengalaman kerja, pendidikan, dan lokasi kerja. Model dievaluasi menggunakan metrik performa dan visualisasi Actual vs Predicted. Hasil menunjukkan model mampu melakukan prediksi dengan cukup baik. Link Notebook: [Notebook Pertemuan 7](https://colab.research.google.com/drive/17R9A5EhbnU_yQ69jgwbLyGtHwQRFlVfD?usp=sharing)
 
-**###Tools dan Library yang Digunakan:**
+**Tools dan Library yang Digunakan:**
 Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-Learn, Requests, Google Colab, dan Jupyter Notebook
 
-**###Cara Menjalankan Notebook:**
+**Cara Menjalankan Notebook:**
+
 **A. Menggunakan Google Colab**
 1. Buka notebook yang tersedia di repository GitHub.
 2. Klik Open in Colab atau unggah file notebook ke Google Colab.
@@ -51,7 +52,7 @@ Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-Learn, Requests, Google Colab
 5. Pastikan seluruh library yang dibutuhkan telah terpasang:
 6. pip install pandas numpy matplotlib seaborn scikit-learn requests
 
-###**Kesimpulan Umum**
+**Kesimpulan Umum**
 
   Selama tujuh pertemuan dari praktikum 1 - 7, saya memperoleh pemahaman mengenai alur kerja Data Science secara lengkap, mulai dari pemrograman dasar Python, pengumpulan data, pembersihan data, eksplorasi data, visualisasi data, preprocessing, hingga pembangunan model Machine Learning sederhana.
   Saya memahami bahwa kualitas data sangat memengaruhi hasil analisis dan performa model. Selain itu, visualisasi data menjadi alat yang penting untuk menemukan pola dan menghasilkan insight yang bermanfaat. Pengalaman belajar ini memberikan fondasi yang kuat untuk mempelajari teknik Data Science dan Machine Learning yang lebih lanjut di masa mendatang.

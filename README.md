@@ -45,11 +45,11 @@ Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-Learn, Requests, Google Colab
 3. Jalankan setiap sel secara berurutan.
 
 **B. Menggunakan Jupyter Notebook Lokal**
-1. git clone https://github.com/username/nama-repository.git
-2. cd nama-repository
-3. jupyter notebook
-4. Pastikan seluruh library yang dibutuhkan telah terpasang:
-5. pip install pandas numpy matplotlib seaborn scikit-learn requests
+1. git clone https://github.com/bintanghan07/data-science-2026.git
+3. cd nama-repository
+4. jupyter notebook
+5. Pastikan seluruh library yang dibutuhkan telah terpasang:
+6. pip install pandas numpy matplotlib seaborn scikit-learn requests
 
 ###**Kesimpulan Umum**
 

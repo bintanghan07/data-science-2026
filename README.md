@@ -1,8 +1,11 @@
 # data-science-2026
 
 Nama          : Bintang Hanifatul Manunggal
+
 NIM           : 250401020095
+
 Kelas         : IF405
+
 Program Studi : S1 PJJ Informatika
 
   Perkenalkan nama saya Bintang Hanifatul Manunggal, mahasiswa Informatika di Universitas Siber Asia. Pada semester ini, saya sedang menempuh mata kuliah Data Science untuk lebih memahami mengenai pengolahan data yang benar

@@ -35,8 +35,25 @@ Saya mempelajari tahapan preprocessing sebelum membangun model Machine Learning.
 Pertemuan 7 = Machine Learning dengan Linear Regression
 Saya membangun model Linear Regression untuk memprediksi gaji berdasarkan pengalaman kerja, pendidikan, dan lokasi kerja. Model dievaluasi menggunakan metrik performa dan visualisasi Actual vs Predicted. Hasil menunjukkan model mampu melakukan prediksi dengan cukup baik. Link Notebook: [Notebook Pertemuan 7](https://colab.research.google.com/drive/17R9A5EhbnU_yQ69jgwbLyGtHwQRFlVfD?usp=sharing)
 
+Pertemuan 9 = Algoritma Klasifikasi (Bagian 1)
+Saya mempelajari klasifikasi data menggunakan Logistic Regression dan Decision Tree. Mempelajari preprocessing data, seperti train-test split dan standardisasi fitur. Mempelajari evaluasi model menggunakan Accuracy, Precision, Recall, F1-Score, dan Confusion Matrix. Link Notebook: [Notebook Pertemuan 9](https://colab.research.google.com/github/bintanghan07/data-science-2026/blob/main/Pertemuan9_BintangHanifatulManunggal_250401020095.ipynb)
+
+Pertemuan 10 = Algoritma Klasifikasi (Bagian 2) 
+Saya mempelajari prediksi customer churn menggunakan algoritma Random Forest. Mempelajari preprocessing dan penanganan data tidak seimbang menggunakan stratified split dan class_weight. Mempelajari evaluasi model dan probabilitas churn menggunakan Accuracy, Precision, Recall, F1-Score, dan ROC-AUC. Link Notebook: [Notebook Pertemuan 10](https://colab.research.google.com/github/bintanghan07/data-science-2026/blob/main/Pertemuan10_BintangHanifatulManunggal_250401020095.ipynb)
+
+Pertemuan 11 = Unsupervised Learning (Clustering)
+Saya mempelajari clustering/segmentasi pelanggan menggunakan algoritma K-Means. Mempelajari standardisasi data dan penentuan jumlah cluster optimal dengan Elbow Method dan Silhouette Score. Mempelajari Hierarchical Clustering dan visualisasi cluster untuk membandingkan hasil pengelompokan. Link Notebook: [Notebook Pertemuan 11](https://colab.research.google.com/github/bintanghan07/data-science-2026/blob/main/Pertemuan11_BintangHanifatulManunggal_250401020095.ipynb)
+
+Pertemuan 12 = Asosiasi Data & Sistem Rekomendasi Dasar
+Saya mempelajari Association Rule Mining untuk menemukan pola hubungan antarproduk. Mempelajari algoritma Apriori, frequent itemset, support, confidence, dan lift. Mempelajari sistem rekomendasi menggunakan Association Rules dan Content-Based Filtering. Link Notebook: [Notebook Pertemuan 12](https://colab.research.google.com/github/bintanghan07/data-science-2026/blob/main/Pertemuan12_BintangHanifatulManunggal_250401020095.ipynb)
+
+Pertemuan 13 = Pengantar Deep Learning & NLP Dasar
+Saya mempelajari Neural Network untuk klasifikasi data non-linear. Mempelajari NLP dan TF-IDF untuk mengubah teks menjadi data numerik.
+Mempelajari klasifikasi sentimen menggunakan Logistic Regression pada ulasan produk. Link Notebook: [Notebook Pertemuan 13](https://colab.research.google.com/github/bintanghan07/data-science-2026/blob/main/Pertemuan13_BintangHanifatulManunggal_250401020095.ipynb)
+
+
 **Tools dan Library yang Digunakan:**
-Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-Learn, Requests, Google Colab, dan Jupyter Notebook
+Google Colab Jupyter Notebook, Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, Requests, TensorFlow/Keras, SciPy, MLxtend, Requests
 
 **Cara Menjalankan Notebook:**
 
@@ -54,5 +71,7 @@ Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-Learn, Requests, Google Colab
 
 **Kesimpulan Umum**
 
-  Selama tujuh pertemuan dari praktikum 1 - 7, saya memperoleh pemahaman mengenai alur kerja Data Science secara lengkap, mulai dari pemrograman dasar Python, pengumpulan data, pembersihan data, eksplorasi data, visualisasi data, preprocessing, hingga pembangunan model Machine Learning sederhana.
-  Saya memahami bahwa kualitas data sangat memengaruhi hasil analisis dan performa model. Selain itu, visualisasi data menjadi alat yang penting untuk menemukan pola dan menghasilkan insight yang bermanfaat. Pengalaman belajar ini memberikan fondasi yang kuat untuk mempelajari teknik Data Science dan Machine Learning yang lebih lanjut di masa mendatang.
+  Berdasarkan praktikum dari pertemuan 1 - 13, saya mempelajari bagaimana proses pengolahan data secara bertahap, mulai dari dasar Python, penggunaan Pandas dan NumPy, EDA, data cleaning, statistik deskriptif, visualisasi data, hingga data preprocessing. Setelah memahami dasar pengolahan data, saya menerapkan beberapa metode Machine Learning seperti Linear Regression, Logistic Regression, Decision Tree, Random Forest, dan memahami cara mengevaluasi model menggunakan Accuracy, Precision, Recall, F1-Score, Confusion Matrix, dan ROC-AUC.
+  Selain supervised learning, saya juga mempelajari clustering menggunakan K-Means dan Hierarchical Clustering, Association Rule Mining dan sistem rekomendasi, serta pengantar Deep Learning dan NLP. Dari seluruh praktikum ini, saya memahami jika Data Science tidak hanya berfokus pada pembuatan model, tetapi juga mencakup proses memahami, membersihkan, mengolah, menganalisis, memvisualisasikan, dan mengevaluasi data agar dapat menghasilkan informasi yang bermanfaat untuk mendukung pengambilan keputusan.
+
+
